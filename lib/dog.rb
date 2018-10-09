@@ -4,8 +4,11 @@ class Dog
     @name = name
   end
   
-  def name
-    @name = na
+  def name=(name)
+    @name = name
+  end
+  
+  def
 
 
 end
